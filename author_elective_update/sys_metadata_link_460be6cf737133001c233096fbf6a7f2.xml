@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
-    <sys_metadata_link action="INSERT_OR_UPDATE">
-        <directory>unload</directory>
-        <documentkey>8799385b0a0a2c3e14c041a7f5414266</documentkey>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_request">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link"><sys_metadata_link action="DELETE"><directory>unload</directory><documentkey>8799385b0a0a2c3e14c041a7f5414266</documentkey><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_request">
     <change_request action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_due/>
@@ -107,19 +103,4 @@
         <work_start/>
     </change_request>
 </record_update>
-]]></payload>
-        <sys_class_name>sys_metadata_link</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-07 10:46:12</sys_created_on>
-        <sys_id>460be6cf737133001c233096fbf6a7f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>CHG0000010</sys_name>
-        <sys_package display_value="jun_7_1" source="sn_jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_scope>
-        <sys_update_name>sys_metadata_link_460be6cf737133001c233096fbf6a7f2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-07 10:46:12</sys_updated_on>
-        <tablename>task</tablename>
-    </sys_metadata_link>
-</record_update>
+]]></payload><sys_class_name>sys_metadata_link</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-07 10:46:12</sys_created_on><sys_id>460be6cf737133001c233096fbf6a7f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CHG0000010</sys_name><sys_package display_value="jun_7_1" source="sn_jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_package><sys_policy/><sys_scope display_value="jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_scope><sys_update_name>sys_metadata_link_460be6cf737133001c233096fbf6a7f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-07 10:46:12</sys_updated_on><tablename>task</tablename></sys_metadata_link></record_update>
