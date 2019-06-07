@@ -6,5 +6,11 @@
                 <element inactive_on_update="false" label="ch2" value="ch2"/>
             </choice>
         </element>
+        <element choice="3" label="myChoice2" max_length="10" name="mychoice2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ch2.ch1" value="ch2.ch1"/>
+                <element inactive_on_update="false" label="ch2.ch2" value="ch2.ch2"/>
+            </choice>
+        </element>
     </element>
 </database>
