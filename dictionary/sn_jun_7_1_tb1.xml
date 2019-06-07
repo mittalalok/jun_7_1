@@ -2,7 +2,7 @@
     <element label="tb1" max_length="40" name="sn_jun_7_1_tb1" type="collection">
         <element choice="3" label="myChoice" max_length="10" name="mychoice" type="choice">
             <choice>
-                <element inactive_on_update="false" label="ch1" value="ch1"/>
+                <element inactive_on_update="false" label="ch11" value="ch11"/>
                 <element inactive_on_update="false" label="ch2" value="ch2"/>
             </choice>
         </element>
