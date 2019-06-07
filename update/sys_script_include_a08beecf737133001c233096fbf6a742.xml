@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_jun_7_1.si1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>si1</name>
+        <script><![CDATA[var si1 = Class.create();
+si1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'si1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-07 10:48:25</sys_created_on>
+        <sys_id>a08beecf737133001c233096fbf6a742</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>si1</sys_name>
+        <sys_package display_value="jun_7_1" source="sn_jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_scope>
+        <sys_update_name>sys_script_include_a08beecf737133001c233096fbf6a742</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-07 10:48:25</sys_updated_on>
+    </sys_script_include>
+</record_update>
