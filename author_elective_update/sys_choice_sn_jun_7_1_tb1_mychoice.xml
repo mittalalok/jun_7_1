@@ -10,13 +10,13 @@
             <name>sn_jun_7_1_tb1</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-07 13:11:49</sys_created_on>
+            <sys_created_on>2019-06-07 13:18:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4f5cc343737d330005672cd2c4f6a762</sys_id>
+            <sys_id>3ddd0f4373f133001c233096fbf6a774</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-07 13:11:49</sys_updated_on>
+            <sys_updated_on>2019-06-07 13:18:17</sys_updated_on>
             <value>ch11</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,13 +29,13 @@
             <name>sn_jun_7_1_tb1</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-07 13:11:49</sys_created_on>
+            <sys_created_on>2019-06-07 13:18:17</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8f5cc343737d330005672cd2c4f6a762</sys_id>
+            <sys_id>7ddd0f4373f133001c233096fbf6a774</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-07 13:11:49</sys_updated_on>
+            <sys_updated_on>2019-06-07 13:18:17</sys_updated_on>
             <value>ch2</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -43,8 +43,8 @@
             <name>sn_jun_7_1_tb1</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-07 13:11:49</sys_created_on>
-            <sys_id>835cc343737d330005672cd2c4f6a763</sys_id>
+            <sys_created_on>2019-06-07 13:18:17</sys_created_on>
+            <sys_id>71dd0f4373f133001c233096fbf6a775</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>mychoice</sys_name>
             <sys_package display_value="jun_7_1" source="sn_jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_package>
@@ -52,7 +52,7 @@
             <sys_scope display_value="jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_scope>
             <sys_update_name>sys_choice_sn_jun_7_1_tb1_mychoice</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-07 13:11:49</sys_updated_on>
+            <sys_updated_on>2019-06-07 13:18:17</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

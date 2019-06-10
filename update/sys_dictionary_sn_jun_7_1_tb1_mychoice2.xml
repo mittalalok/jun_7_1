@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-07 11:34:46</sys_created_on>
-        <sys_id>435cc343737d330005672cd2c4f6a758</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>71dd0f4373f133001c233096fbf6a769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>myChoice2</sys_name>
         <sys_package display_value="jun_7_1" source="sn_jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_package>
         <sys_policy/>
         <sys_scope display_value="jun_7_1">95bae6cf737133001c233096fbf6a7ae</sys_scope>
         <sys_update_name>sys_dictionary_sn_jun_7_1_tb1_mychoice2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-07 13:13:37</sys_updated_on>
+        <sys_updated_on>2019-06-07 13:18:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
