@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tb1_bkp_again" max_length="40" name="sn_jun_7_1_tb1" type="collection">
-        <element choice="3" label="myChoice_new" mandatory="true" max_length="10" name="mychoice" type="string">
-            <choice>
-                <element inactive_on_update="false" label="ch11" value="ch11"/>
-                <element inactive_on_update="false" label="ch2" value="ch2"/>
-            </choice>
-        </element>
         <element choice="3" label="myChoice2" max_length="10" name="mychoice2" type="string">
             <choice/>
         </element>
