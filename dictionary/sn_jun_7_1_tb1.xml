@@ -9,5 +9,6 @@
         <element choice="3" label="myChoice2" max_length="10" name="mychoice2" type="string">
             <choice/>
         </element>
+        <element label="newColupdate" mandatory="true" max_length="10" name="newcol" type="integer"/>
     </element>
 </database>
